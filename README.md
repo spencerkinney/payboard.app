@@ -24,6 +24,7 @@ If you were also wondering about the tech stack! I am using Django for the backe
 ---
 ## Todo List
 Here is a list of features that I am currently working on:
+- Great eWallet support of course, there are only a few options right now. I'll fix that.
 - Drag and drop customization
 - Scannable QR codes
 - Improved cosmetics
