@@ -1,9 +1,9 @@
 # payboard.app
 
 ## Introduction
-Hello! I created this small repository to serve as an update log for the payboard.app project. I just started working on this project around two weeks ago from when I'm writing this. A little bit of background: I myself use many different eWallet services such as Venmo, PayPal, Bitcoin, Dogecoin, etc... By the way, let's not get semantical and debate wether or not all of these are actually considered 'eWallets' 🙂.
+Hello! I created this small repository to serve as an update log for the payboard.app project. I just started working on this project around two weeks ago from when I'm writing this. A little bit of background: I myself use many different eWallet services such as Venmo, PayPal, Bitcoin, Dogecoin, etc... By the way, let's not get semantical and debate whether or not all of these are actually considered 'eWallets' 🙂.
 
-The (current) goal of this project is to develop a very simple mobile-focused application where you can generate a web page of all your eWallet usernames/addresses and send that link to your friends.
+The (current) goal of this project is to develop a very simple mobile-focused application where you can generate a web page of all your eWallet usernames/addresses and send it to your friends.
 
 ---
 
