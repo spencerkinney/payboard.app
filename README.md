@@ -1,4 +1,6 @@
-# payboard.app
+# payboard.me
+
+:exclamation: I have updated changed the domain and the new url is www.payboard.me. I made this change due to the constraints of the .app TLD.
 
 ## Introduction
 Hello! I created this small repository to serve as an update log for the payboard.app project. I just started working on this project around two weeks ago from when I'm writing this. A little bit of background: I myself use many different eWallet services such as Venmo, PayPal, Bitcoin, Dogecoin, etc... By the way, let's not get semantical and debate whether or not all of these are actually considered 'eWallets' 🙂.
@@ -8,11 +10,11 @@ The (current) goal of this project is to develop a very simple mobile-focused ap
 ---
 
 ## Application
-So... I went ahead and made a very simple app that does this of course: www.payboard.app
+So... I went ahead and made a very simple app that does this of course: www.payboard.me
 
 Check it out! You can make an account and use the service if you'd like. There are many new features coming in the near future.
 
-You can also check out my page here: https://www.payboard.app/u/spencer I am using the 'Cloudy' theme from the *Settings* page :)
+You can also check out my page here: https://www.payboard.me/u/spencer I am using the 'Cloudy' theme from the *Settings* page :)
 
 ---
 
