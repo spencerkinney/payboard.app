@@ -1,6 +1,6 @@
 # payboard.me
 
-:exclamation: I have updated changed the domain and the new url is www.payboard.me. I made this change due to the constraints of the .app TLD.
+:exclamation: I have changed the domain and the new url is www.payboard.me. I made this change due to the constraints of the .app TLD.
 
 ## Introduction
 Hello! I created this small repository to serve as an update log for the payboard.app project. I just started working on this project around two weeks ago from when I'm writing this. A little bit of background: I myself use many different eWallet services such as Venmo, PayPal, Bitcoin, Dogecoin, etc... By the way, let's not get semantical and debate whether or not all of these are actually considered 'eWallets' 🙂.
