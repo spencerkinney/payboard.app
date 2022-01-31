@@ -41,6 +41,6 @@ Here are some screenshots of the app's initial state:
 
 <img src="https://payboard.s3.amazonaws.com/screenshots/IMG_2213.PNG" width="300">
 
-<img src="https://payboard.s3.amazonaws.com/screenshots/IMG_2214.PNG" width="300">
+<img src="https://payboard.s3.amazonaws.com/screenshots/IMG_2235.PNG" width="300">
 
-<img src="https://payboard.s3.amazonaws.com/screenshots/IMG_2215.PNG" width="300">
+<img src="https://payboard.s3.amazonaws.com/screenshots/IMG_2236.PNG" width="300">
