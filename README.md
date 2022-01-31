@@ -32,7 +32,7 @@ Here is a list of features that I am currently working on:
 - Account features: email confirmation, 'Forgot my Password', etc..
 - Validating entered crypto addresses
 ---
-*Side note*: ✔ does not mean I am finished; I will continuously improve these features.
+*Side note*: ✔ does not mean I am completely finished; I will continuously improve these features.
 
 ## Some Screenshots
 Here are some screenshots of the app's initial state:
