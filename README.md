@@ -26,13 +26,13 @@ If you were also wondering about the tech stack! I am using Django for the backe
 Here is a list of features that I am currently working on:
 - More eWallets supported, there are only a few options right now. I'll fix that.
 - Drag and drop customization
-- Scannable QR codes
+- Scannable QR codes ✔
 - Improved cosmetics
 - Sharing your links via SMS
 - Account features: email confirmation, 'Forgot my Password', etc..
 - Validating entered crypto addresses
-
 ---
+*Side note*: ✔ does not mean I am finished; I will continuously improve these features.
 
 ## Some Screenshots
 Here are some screenshots of the app's initial state:
